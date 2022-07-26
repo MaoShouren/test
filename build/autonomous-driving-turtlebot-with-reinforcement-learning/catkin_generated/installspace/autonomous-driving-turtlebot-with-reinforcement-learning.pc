@@ -1,0 +1,8 @@
+prefix=/home/turing/catkin_ws/install
+
+Name: autonomous-driving-turtlebot-with-reinforcement-learning
+Description: Description of autonomous-driving-turtlebot-with-reinforcement-learning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
